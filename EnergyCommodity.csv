@@ -1,0 +1,30 @@
+Commodity,Type,Ticker Symbol
+Crude oil,Brent crude oil,BZ
+Crude oil,WTI crude oil,CL
+Heating oil,NA,HO
+Gasoline,NA,RB
+Natural gas,Henry Hub Natural Gas,NG
+Natural gas liquids (NGLs),Propane,PN
+Natural gas liquids (NGLs),Ethane,ET
+Ethanol,NA,EH
+Coal,COAL,NA
+Uranium,URNM,NA
+Refined petroleum products,Diesel fuel,HO
+Refined petroleum products,Jet fuel,HO
+LNG (Liquefied Natural Gas),NA,LNG
+Carbon emissions allowances,Carbon credits,EUA
+Electricity futures and options contracts,NA,NA
+Renewable energy certificates (RECs),NA,NA
+Emissions offset credits,NA,NA
+Biofuels,Ethanol,EH
+Biofuels,Biodiesel,BD
+Carbon black,NA,NA
+Petroleum coke,NA,NA
+Bitumen,NA,NA
+Rare earth minerals,NA,NA
+Lithium,NA,LIT
+Cobalt,NA,CO
+Nickel,NA,NICKEL
+Uranium concentrates (yellowcake),NA,U3O8
+Shale gas,NA,NA
+Shale oil,NA,NA
